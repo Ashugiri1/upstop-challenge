@@ -19,7 +19,7 @@
 
 ## How to run application
 
-- Download the project zip from the github [https://github.com/Ashugiri1/upstop-challenge]
+- Download the project zip from the [github](https://github.com/Ashugiri1/upstop-challenge)
 - Install all project dependencies by running command
 
 ```bash
